@@ -18,7 +18,6 @@ My day-to-day work mainly revolves around creating stunning products using **Flu
 [![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org)
 [![.NET](https://img.shields.io/badge/.NET-512bd4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)](https://go.dev)
-[![Astro](https://img.shields.io/badge/Astro-ff5905?logo=astro&logoColor=white&style=flat-square)](https://astro.build)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square)](https://typescriptlang.org)
 
 After work, I study Japanese Studies at the University of Warsaw. Those studies allow me to better understand issues related to internationalization and adapting applications to different regions and cultures.
