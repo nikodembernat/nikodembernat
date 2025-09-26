@@ -6,7 +6,7 @@ You can get in touch by following any of the links below.
 
 [![Website](https://img.shields.io/badge/nikodembernat.com-8779ED?logo=vercel&labelColor=242428&style=flat-square)](https://nikodembernat.com)
 [![X (Twitter)](https://img.shields.io/badge/@nikodembernat-8779ED?logo=X&labelColor=242428&style=flat-square)](https://x.com/nikodembernat)
-[![Email](https://img.shields.io/badge/n.bernat@outlook.com-242428?style=flat-square)](mailto:n.bernat@outlook.com)
+[![Email](https://img.shields.io/badge/me@nikodembernat.com-242428?style=flat-square)](mailto:me@nikodembernat.com)
 
 My day-to-day work mainly revolves around creating products using **Flutter** and **Dart**, but native implementations don't scare me away. 
 
